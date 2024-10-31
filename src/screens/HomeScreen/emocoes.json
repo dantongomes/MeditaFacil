@@ -1,0 +1,38 @@
+[
+    {
+    "image": "feliz.png",
+    "label": "Feliz",
+    "description": "Estou me sentindo muito bem!",
+    "page": "FelizPage"
+    },
+    {
+    "image": "ansioso.png",
+    "label": "Ansioso",
+    "description": "Estou um pouco nervoso com o que está por vir.",
+    "page": "AnsiosoPage"
+    },
+    {
+    "image": "triste.png",
+    "label": "Triste",
+    "description": "Sinto que algo não está certo.",
+    "page": "TristePage"
+    },
+    {
+    "image": "raiva.png",
+    "label": "Raiva",
+    "description": "Estou irritado e preciso desabafar.",
+    "page": "RaivaPage"
+    },
+    {
+    "image": "estressado.png",
+    "label": "Estressado",
+    "description": "Sinto que a pressão está demais.",
+    "page": "EstressadoPage"
+    },
+    {
+    "image": "calma.png",
+    "label": "Calmo",
+    "description": "Estou em paz e relaxado.",
+    "page": "CalmoPage"
+    }
+]
